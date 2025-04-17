@@ -1,0 +1,31 @@
+/* ------------------------------
+GENERAL SETTING
+--------------------------------- */
+body {
+  font-family: "Buenard", sans-serif;
+  color: #514855;
+}
+
+a {
+  color: #ffbc58;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a:hover {
+  color: #ffe4ba;
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Agbalumo", sans-serif;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}

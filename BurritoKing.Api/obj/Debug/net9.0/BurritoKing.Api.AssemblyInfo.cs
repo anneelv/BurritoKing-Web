@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BurritoKing.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+010182ce0c938eb067ff020d038b9d96b608c70f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ad4070b65736ce915b779034a4e95f97796414e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BurritoKing.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BurritoKing.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
