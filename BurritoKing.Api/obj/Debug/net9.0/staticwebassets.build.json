@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "HxC1cp1Mf2LvY/AAbD62MZ1qjFpA5hbsmatMa63gl7A=",
+  "Source": "BurritoKing.Api",
+  "BasePath": "_content/BurritoKing.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
