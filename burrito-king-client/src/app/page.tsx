@@ -1,3 +1,9 @@
+import Login from "./Login";
+
 export default function Home() {
-  return <main id="main"></main>;
+  return (
+    <>
+      <Login />
+    </>
+  );
 }

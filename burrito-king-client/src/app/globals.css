@@ -1,9 +1,16 @@
 /* ------------------------------
 GENERAL SETTING
 --------------------------------- */
+
 :root {
   scroll-behavior: smooth;
 }
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   font-family: "Buenard", sans-serif;
   color: #514855;
@@ -31,4 +38,9 @@ h6 {
 
 body::-webkit-scrollbar {
   display: none;
+}
+
+section {
+  padding: 60px 0;
+  overflow: hidden;
 }
