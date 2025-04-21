@@ -1,6 +1,9 @@
 /* ------------------------------
 GENERAL SETTING
 --------------------------------- */
+:root {
+  scroll-behavior: smooth;
+}
 body {
   font-family: "Buenard", sans-serif;
   color: #514855;

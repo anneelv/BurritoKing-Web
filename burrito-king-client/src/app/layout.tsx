@@ -11,6 +11,7 @@ import "glightbox/dist/css/glightbox.css";
 import type { Metadata } from "next";
 import { Agbalumo, Noto_Serif } from "next/font/google";
 import "./globals.css";
+import Header from "../components/Header";
 
 const agbalumo = Agbalumo({
   weight: "400",
@@ -31,7 +32,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${notoSerif.className}`}>{children}</body>
+      <body className={`${notoSerif.className}`}>
+        <Header />
+        {children}
+      </body>
     </html>
   );
 }
